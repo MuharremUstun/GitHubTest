@@ -1,0 +1,8 @@
+# You may comment anything here
+something.iml
+.idea
+
+
+# I do not need also these folders and files to be pushed to GitHub.
+/GitHubProject.iml
+/SomethingElse.iml
